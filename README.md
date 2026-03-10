@@ -35,5 +35,6 @@ Key concepts include:
 
 ## Author
 
-Tavleen Kaur  
-B.Tech IT — University of Mumbai
+Tavleen Kaur Labana  
+B.E IT — Thadomal Shahani College Of Engineering
+University of Mumbai
